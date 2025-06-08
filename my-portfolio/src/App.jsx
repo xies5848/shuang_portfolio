@@ -16,7 +16,7 @@ export default function App() {
     <Router>
       <nav style={{ padding: "1rem", background: "#eee", display: "flex", gap: "1rem" }}>
         <Link to="/">Home</Link>
-        <Link to="/about">About</Link>
+        <Link to="/about">About Me</Link>
         <Link to="/experience">Experience</Link>
         <Link to="/projects">Projects</Link>
         <Link to="/contact">Contact</Link>
